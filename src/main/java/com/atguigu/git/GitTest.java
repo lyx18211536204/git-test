@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello git!master-hot-test1 commit2!");
         System.out.println("hello git!master-hot-test2 commit2!");
         System.out.println("hello git!push commit!");
+        System.out.println("hello git!pull commit!GitHub远程库拉取代码到本地库！");
     }
 }
